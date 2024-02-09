@@ -1,0 +1,25 @@
+What is JSON?
+- JSON stands for javaScript Object Notation, which is a text based language that allows for storing and
+easy transfering of data
+
+What is the difference between JSON and XML?
+-Unlike XML, JSON doesn't use end tag to mark the end of an object for example
+-JSON can use arrays while XML can't.
+-XML has to be parsed with an XML parser, while JSON can be parsed by a JavaScript function.
+
+For what is JSON generally used for?
+-JSON is used to transfer Data
+
+Write down the 6 data types in JSON.
+-a string
+-a number
+-a boolean
+-an array
+-an object
+-null
+
+Write down the 4 JSON syntax rules.
+-Data is written in name/value pairs-{"brand","mitsubishi"}
+-Data is seperated by commas
+-Curly braces hold objects(like javaScript, but all String based)
+-Square Brackets hold Arrays.

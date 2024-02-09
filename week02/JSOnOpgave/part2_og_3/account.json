@@ -1,0 +1,94 @@
+
+
+{"customers":[{"firstName":"Kasper",
+  "lastName": "Manny",
+  "birthDate": "1.February 2001",
+  "address":{"street":"kingstonway",
+    "city": "New Orleans",
+    "zipCode":232},
+  "account":{
+    "id":"hw324dmso0",
+    "balance":"393900 USD",
+    "isActive":true
+  }},
+
+
+  {"firstName":"Elise",
+    "lastName": "Alba",
+    "birthDate": "30.January 1997",
+    "address":{
+      "street":"allenten Alle",
+      "city": "Chicago",
+      "zipCode":2444
+    },
+    "account":{
+      "id":"ded93dhso3",
+      "balance":"900 USD",
+      "isActive":true
+    }
+  },
+
+  {
+    "firstName": "Candice",
+    "lastName": "Stewert",
+    "birthDate": "15.March 1988",
+    "address": {
+      "street": "oceanview Lane",
+      "city": "San Diego",
+      "zipCode": 3210
+    },
+    "account": {
+      "id": "sdh45jsd84",
+      "balance": "15000 USD",
+      "isActive": false
+    }
+  },
+  {
+    "firstName": "Harley",
+    "lastName": "Quinn",
+    "birthDate": "22.August 1994",
+    "address": {
+      "street": "pinecrest Road",
+      "city": "Atlanta",
+      "zipCode": 3022
+    },
+    "account": {
+      "id": "fj349djso9",
+      "balance": "2500 USD",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Liam",
+    "lastName": "Beckingham",
+    "birthDate": "9.December 1990",
+    "address": {
+      "street": "westend Drive",
+      "city": "Seattle",
+      "zipCode": 98101
+    },
+    "account": {
+      "id": "9df83hdsf1",
+      "balance": "75000 USD",
+      "isActive": true
+    }
+  },
+  {
+    "firstName": "Ivy",
+    "lastName": "Green",
+    "birthDate": "5.May 1995",
+    "address": {
+      "street": "maple Avenue",
+      "city": "Boston",
+      "zipCode": 2115
+    },
+    "account": {
+      "id": "0we34jrfn2",
+      "balance": "18200 USD",
+      "isActive": false
+    }
+  }
+  ]
+
+
+}
